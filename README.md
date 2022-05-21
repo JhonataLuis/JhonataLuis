@@ -1,5 +1,5 @@
 
-## Oiii eu sou o Jhonata Luis, criadora de conteúdo de programação e tecnologia!
+## Olá! Eu sou o Jhonata Luis.
 <div align="center">
   <a href="https://github.com/JhonataLuis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JhonataLuis&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
