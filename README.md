@@ -2,7 +2,7 @@
 
 # 👨‍💻 Jhonata Luis
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Back-End`**
 
 👋 Olá, eu sou Jhonata Luis!
 💻 Desenvolvedor Back-End, apaixonado por tecnologia e inovação.
