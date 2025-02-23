@@ -5,7 +5,7 @@
 **`Desenvolvedor FullStack`**
 
 👋 Olá, eu sou Jhonata Luis!
-💻 Desenvolvedor Full-stack, apaixonado por tecnologia e inovação.
+💻 Desenvolvedor Back-End, apaixonado por tecnologia e inovação.
 🌱 Atualmente estou melhorando minhas habilidades com o ecossistema Java EE e Framework Spring Boot.
 🚀 Busco colaborar em projetos desafiadores que impactem positivamente a vida das pessoas.
 
