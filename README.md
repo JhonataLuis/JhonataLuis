@@ -94,6 +94,15 @@ style="padding-right: 10px;"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
 
 <img 
+    align="left" 
+    alt="THYMELEAF" 
+    title="THYMELEAF"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/thymeleaf/thymeleaf-original.svg" 
+/>
+
+<img 
 align="left" 
 alt="Postgres" 
 title="Postgres"
