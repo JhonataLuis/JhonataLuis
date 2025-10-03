@@ -2,11 +2,11 @@
 
 # 👨‍💻 Jhonata Luis
 
-**`Desenvolvedor Back-End`**
+**`Desenvolvedor de Software`**
 
 👋 Olá, eu sou Jhonata Luis!
-💻 Desenvolvedor Back-End, apaixonado por tecnologia e inovação.
-🌱 Atualmente estou melhorando minhas habilidades com o ecossistema Java EE e Framework Spring Boot.
+💻 Desenvolvedor de Software, apaixonado por tecnologia e inovação.
+🌱 Atualmente estou melhorando minhas habilidades com o ecossistema Java e Framework Spring Boot.
 🚀 Busco colaborar em projetos desafiadores que impactem positivamente a vida das pessoas.
 
 ### - 📫 How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhonataluisdesenvolvedorjava/)](https://www.linkedin.com/in/jhonataluisdesenvolvedorjava/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jhonatafontesluis23@gmail.com)](mailto:jhonatafontesluis23@gmail.com)
