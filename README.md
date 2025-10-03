@@ -2,7 +2,7 @@
 
 # 👨‍💻 Jhonata Luis
 
-**`Desenvolvedor de Software`**
+**`Software Developer`**
 
 👋 Olá, eu sou Jhonata Luis!
 💻 Desenvolvedor de Software, apaixonado por tecnologia e inovação.
