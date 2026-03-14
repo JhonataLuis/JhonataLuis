@@ -2,12 +2,14 @@
 
 # 👨‍💻 Jhonata Luis
 
-**`Software Developer`**
+## Software Developer
 
-👋 Olá, eu sou Jhonata Luis!
-💻 Desenvolvedor de Software, apaixonado por tecnologia e inovação.
-🌱 Atualmente estou melhorando minhas habilidades com o ecossistema Java e Framework Spring Boot.
-🚀 Busco colaborar em projetos desafiadores que impactem positivamente a vida das pessoas.
+👋 Olá! Eu sou **Jhonata Luis**.
+
+💻 Desenvolvedor de Software focado em backend, apaixonado por tecnologia e pela construção de soluções eficientes e escaláveis.
+🚀 Trabalho principalmente com **Java, Spring Boot, Python e Django**, desenvolvendo APIs, sistemas web e aplicações orientadas a boas práticas de engenharia de software.
+🌱 Atualmente estou aprofundando meus conhecimentos em **arquitetura de software, APIs REST, bancos de dados e desenvolvimento full stack**.
+🤝 Busco oportunidades para **colaborar em projetos desafiadores**, aprender continuamente e contribuir para a criação de produtos que gerem impacto real para usuários e negócios.
 
 ### - 📫 How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhonataluisdesenvolvedorjava/)](https://www.linkedin.com/in/jhonataluisdesenvolvedorjava/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jhonatafontesluis23@gmail.com)](mailto:jhonatafontesluis23@gmail.com)
 
@@ -50,6 +52,24 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-o
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Django" 
+    title="Django"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"
 />
 
 <img 
@@ -103,20 +123,12 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql
 />
 
 <img 
-align="left" 
-alt="Postgres" 
-title="Postgres"
-width="30px"
-style="padding-right: 10px;" 
-src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png"/>
-
-<img 
     align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="30px"
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png"
 />
 
 
