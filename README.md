@@ -7,7 +7,7 @@
 👋 Olá! Eu sou **Jhonata Luis**.
 
 💻 Desenvolvedor de Software focado em backend, apaixonado por tecnologia e pela construção de soluções eficientes e escaláveis.
-🚀 Trabalho principalmente com **Java, Spring Boot, Python e Django**, desenvolvendo APIs, sistemas web e aplicações orientadas a boas práticas de engenharia de software.
+🚀 Trabalho principalmente com **Python, Django, Java e Spring Boot**, desenvolvendo APIs, sistemas web e aplicações orientadas a boas práticas de engenharia de software.
 🌱 Atualmente estou aprofundando meus conhecimentos em **arquitetura de software, APIs REST, bancos de dados e desenvolvimento full stack**.
 🤝 Busco oportunidades para **colaborar em projetos desafiadores**, aprender continuamente e contribuir para a criação de produtos que gerem impacto real para usuários e negócios.
 
