@@ -74,16 +74,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-o
 
 <img 
     align="left" 
-    alt="React Native" 
-    title="React Native"
-    width="auto" 
-    height="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" 
-/>
-
-<img 
-    align="left" 
     alt="React" 
     title="React" 
     width="30px" 
@@ -126,20 +116,13 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-o
 />
 
 <img 
-align="left" 
-alt="Apache" 
-title="Apache"
-width="30px" 
-style="padding-right: 10px;"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg"/>
-
-<img 
-align="left" 
-alt="MySql" 
-title="MySql"
-width="30px" 
-style="padding-right: 10px;"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
+    align="left" 
+    alt="Apache" 
+    title="Apache"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg"
+/>
 
 <img 
     align="left" 
@@ -148,6 +131,15 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/thymeleaf/thymeleaf-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="MySql" 
+    title="MySql"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
 />
 
 <img 
