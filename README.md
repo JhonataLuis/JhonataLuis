@@ -76,9 +76,10 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-o
     align="left" 
     alt="React Native" 
     title="React Native"
-    width="30px" 
+    width="auto" 
+    height="30px" 
     style="padding-right: 10px;" 
-    src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" 
+    src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" 
 />
 
 <img 
