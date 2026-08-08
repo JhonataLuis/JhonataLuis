@@ -136,7 +136,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql
     title="PostgreSQL"
     width="30px"
     style="padding-right: 10px;" 
-    src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
 />
 
 
