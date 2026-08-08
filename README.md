@@ -7,7 +7,7 @@
 👋 Olá! Eu sou **Jhonata Luis**.
 
 💻 Desenvolvedor de Software focado em backend, apaixonado por tecnologia e pela construção de soluções eficientes e escaláveis.
-🚀 Trabalho principalmente com **Python, Django, Java e Spring Boot**, desenvolvendo APIs, sistemas web e aplicações orientadas a boas práticas de engenharia de software.
+🚀 Trabalho principalmente com **Java e Spring Boot, Angular e Python**, desenvolvendo APIs, sistemas web e aplicações orientadas a boas práticas de engenharia de software.
 🌱 Atualmente estou aprofundando meus conhecimentos em **arquitetura de software, APIs REST, bancos de dados e desenvolvimento full stack**.
 🤝 Busco oportunidades para **colaborar em projetos desafiadores**, aprender continuamente e contribuir para a criação de produtos que gerem impacto real para usuários e negócios.
 
@@ -60,7 +60,17 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-o
     title="React" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net" />
+    src="https://cdn.jsdelivr.net" 
+/>
+
+<img 
+    align="left" 
+    alt="Angular" 
+    title="Angular"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" 
+/>
 
 <img 
     align="left" 
@@ -146,20 +156,12 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=JhonataLuis&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonataLuis&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+  <div align="center">
+  <a href="https://github.com/JhonataLuis">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JhonataLuis&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonataLuis&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+  </a>
+</div>
 
 </p>
 
