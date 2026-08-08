@@ -8,7 +8,7 @@
 
 💻 Desenvolvedor de Software focado em backend, apaixonado por tecnologia e pela construção de soluções eficientes e escaláveis.
 🚀 Trabalho principalmente com **Java e Spring Boot, Angular e Python**, desenvolvendo APIs, sistemas web e aplicações orientadas a boas práticas de engenharia de software.
-🌱 Atualmente estou aprofundando meus conhecimentos em **arquitetura de software, APIs REST, bancos de dados e desenvolvimento full stack**.
+🌱 Atualmente estou aprofundando meus conhecimentos em **arquitetura de software, APIs REST, IA, bancos de dados e desenvolvimento full stack**.
 🤝 Busco oportunidades para **colaborar em projetos desafiadores**, aprender continuamente e contribuir para a criação de produtos que gerem impacto real para usuários e negócios.
 
 ### - 📫 How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhonataluisdesenvolvedorjava/)](https://www.linkedin.com/in/jhonataluisdesenvolvedorjava/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jhonatafontesluis23@gmail.com)](mailto:jhonatafontesluis23@gmail.com)
@@ -158,13 +158,10 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-o
 ### 📊 Estatísticas
 
 <p>
-  <div align="center">
   <a href="https://github.com/JhonataLuis">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JhonataLuis&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonataLuis&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
   </a>
-</div>
-
 </p>
 
 
