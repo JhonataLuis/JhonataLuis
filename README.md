@@ -56,6 +56,15 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-o
 
 <img 
     align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<img 
+    align="left" 
     alt="Angular" 
     title="Angular"
     width="30px" 
@@ -65,20 +74,20 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-o
 
 <img 
     align="left" 
+    alt="React Native" 
+    title="React Native"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" 
+/>
+
+<img 
+    align="left" 
     alt="React" 
     title="React" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
 <img 
