@@ -175,6 +175,8 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-o
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonataLuis&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
   </a>
 </div>
+
+[![GitHub stats](https://img.shields.io/badge/GitHub_Stats-Ver_em_breve-181717?style=for-the-badge&logo=github)](https://github.com/JhonataLuis)
 </p>
 
 
