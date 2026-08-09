@@ -92,6 +92,15 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-o
 
 <img 
     align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<img 
+    align="left" 
     alt="HTML"
     title="HTML" 
     width="30px" 
@@ -158,10 +167,14 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-o
 ### 📊 Estatísticas
 
 <p>
+  <div align="center">
   <a href="https://github.com/JhonataLuis">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JhonataLuis&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+  </a>
+  <a href="https://github.com/JhonataLuis">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonataLuis&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
   </a>
+</div>
 </p>
 
 
