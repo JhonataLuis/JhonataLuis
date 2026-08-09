@@ -166,6 +166,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-o
 
 ### 📊 Estatísticas
 
+<p>
   <div align="center">
   <a href="https://github.com/JhonataLuis">
     <img height="180em" src="https://dynamic-stats.vercel.app/api?username=JhonataLuis&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
@@ -176,7 +177,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-o
 </div>
 
 [![GitHub stats](https://img.shields.io/badge/GitHub_Stats-Ver_em_breve-181717?style=for-the-badge&logo=github)](https://github.com/JhonataLuis)
-
+</p>
 
   
 <!---
