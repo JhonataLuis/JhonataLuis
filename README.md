@@ -169,10 +169,10 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-o
 <p>
   <div align="center">
   <a href="https://github.com/JhonataLuis">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JhonataLuis&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+    <img height="180em" src="https://github-readme-stats-git-master-svarshney.vercel.app/api?username=JhonataLuis&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
   </a>
   <a href="https://github.com/JhonataLuis">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonataLuis&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+    <img height="180em" src="https://github-readme-stats-git-master-svarshney.vercel.app/api/top-langs/?username=JhonataLuis&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
   </a>
 </div>
 
